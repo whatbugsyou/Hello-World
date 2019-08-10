@@ -29,4 +29,9 @@ the first repository
 ## xxx2
 ## bbbb3
 ## xxx3
+<<<<<<< HEAD
 ##s a 
+=======
+
+##$sdf
+>>>>>>> fa16dee9b5042b39b01078ab91c7c7b80453113f

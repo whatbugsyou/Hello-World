@@ -27,8 +27,5 @@ the first repository
 
 ##bbb
 ## xxx2
-<<<<<<< HEAD
 ## bbbb3
-=======
 ## xxx3
->>>>>>> b1f3c80312ce6a534688106fe3a0bdedd28c72f2
